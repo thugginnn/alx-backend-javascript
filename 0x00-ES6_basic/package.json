@@ -1,0 +1,23 @@
+{
+  "name": "0x00-es6_basic",
+  "version": "1.0.0",
+  "description": "A project focusing on learning and practicing the basics of ECMAScript 2015 (ES6) features in JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thugginnn/alx-backend-javascript.git"
+  },
+  "keywords": [
+    "(ES6",
+    "JavaScript)"
+  ],
+  "author": "Paul Iyiade <paul.iyiade4@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thugginnn/alx-backend-javascript/issues"
+  },
+  "homepage": "https://github.com/thugginnn/alx-backend-javascript#readme"
+}
